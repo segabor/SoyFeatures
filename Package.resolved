@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SoyKit",
+        "repositoryURL": "https://github.com/segabor/SoyKit",
+        "state": {
+          "branch": "master",
+          "revision": "7c015e8c73f087420ee31eae5c2485b51d031bff",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

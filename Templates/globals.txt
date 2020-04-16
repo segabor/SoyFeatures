@@ -1,0 +1,2 @@
+GLOBAL_INT=1
+GLOBAL_STR='hello'
